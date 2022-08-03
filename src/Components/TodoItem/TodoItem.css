@@ -1,0 +1,35 @@
+.item{
+    display: flex;
+    /* justify-content: end; */
+    /* column-gap: 10px; */
+    margin-bottom: 10px;
+    width: inherit;
+    /* height: 20px; */
+    
+    /* justify-self: center; */
+}
+
+label{
+    padding: 10px;
+    width: inherit;
+    /* display: inline-flex; */
+}
+
+/* .checkbox{
+    display: inline-flex;
+    justify-self: flex-start;
+} */
+
+button{
+    position: relative;
+    right: 0px;
+
+    /* width: 30px;
+    height: 30px; */
+    /* margin-left: 1%; */
+
+    /* display: inline-flex;
+    align-self: flex-end; */
+
+    /* justify-self: end; */
+}

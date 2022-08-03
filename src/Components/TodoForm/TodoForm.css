@@ -1,0 +1,10 @@
+.form{
+    display: flex;
+    /* justify-content: center; */
+}
+
+button{
+    border: 1px;
+    /* display: flex;
+    justify-self: flex-end; */
+}
